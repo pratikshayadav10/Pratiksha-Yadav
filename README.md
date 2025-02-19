@@ -43,11 +43,11 @@ APIs Used -
 
 Additional Enhancements -
 
-  Automatic date detection and conversion.
+  1. Automatic date detection and conversion.
   
-  Themed UI with a dark mode-inspired look.
+  2. Themed UI with a dark mode-inspired look.
   
-  Dynamic selection of columns for flexible analysis.
+  3. Dynamic selection of columns for flexible analysis.
 
 
 GitHub Repository
