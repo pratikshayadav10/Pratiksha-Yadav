@@ -30,10 +30,11 @@ Tech Stack Used
 Setup Instructions
   1. Clone the repository:
       git clone https://github.com/pratikshayadav10/Pratiksha-Yadav.git
+     
       cd Pratiksha-Yadav
-  2. Install dependencies:
+  3. Install dependencies:
       pip install -r requirements.txt
-  3. Run the Streamlit application:
+  4. Run the Streamlit application:
       streamlit run app.py
 
 APIs Used -
