@@ -31,7 +31,7 @@ Setup Instructions
   1. Clone the repository:
       git clone https://github.com/pratikshayadav10/Pratiksha-Yadav.git
      
-      cd Pratiksha-Yadav
+        cd Pratiksha-Yadav
   3. Install dependencies:
       pip install -r requirements.txt
   4. Run the Streamlit application:
@@ -40,7 +40,8 @@ Setup Instructions
 APIs Used -
   No external APIs are used in this project.
 
-Additional Enhancements
+Additional Enhancements -
+
   Automatic date detection and conversion.
   Themed UI with a dark mode-inspired look.
   Dynamic selection of columns for flexible analysis.
