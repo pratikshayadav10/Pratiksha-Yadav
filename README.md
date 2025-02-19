@@ -32,7 +32,7 @@ Setup Instructions
       bash
       Copy
       Edit
-      git clone <repository-url>
+      git clone <https://github.com/pratikshayadav10/Pratiksha-Yadav.git>
       cd <repository-folder>
   2. Install dependencies:
       bash
