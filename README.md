@@ -29,9 +29,10 @@ Tech Stack Used
      
 Setup Instructions
   1. Clone the repository:
-      git clone https://github.com/pratikshayadav10/Pratiksha-Yadav.git
      
-        cd Pratiksha-Yadav
+         git clone https://github.com/pratikshayadav10/Pratiksha-Yadav.git
+     
+         cd Pratiksha-Yadav
   3. Install dependencies:
       pip install -r requirements.txt
   4. Run the Streamlit application:
@@ -43,7 +44,9 @@ APIs Used -
 Additional Enhancements -
 
   Automatic date detection and conversion.
+  
   Themed UI with a dark mode-inspired look.
+  
   Dynamic selection of columns for flexible analysis.
 
 GitHub Repository
