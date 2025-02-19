@@ -45,7 +45,7 @@ Additional Enhancements -
 
   1. Automatic date detection and conversion.
   
-  2. Themed UI with a dark mode-inspired look.
+  2. Themed UI with inspired look.
   
   3. Dynamic selection of columns for flexible analysis.
 
